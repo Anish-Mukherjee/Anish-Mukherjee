@@ -23,7 +23,7 @@ I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: Won Gitcoin hackathons and bounties
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/twitter/follow/crypt0corleone?style=social)](https://twitter.com/crypt0corleone)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/twitter/follow/0xanish?style=social)](https://twitter.com/0xanish)
 
 ---
 
