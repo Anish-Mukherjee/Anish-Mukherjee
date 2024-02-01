@@ -13,17 +13,17 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me 
 
-I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm a Front-end web developer with 2+ years of commercial experience, specializing in responsive web and application development using MERN stack.
 
-- :telescope: I’m contributing to various emerging technologies by building generative NFT collections, NFT minting sites, DAOs and multi-sig wallets across Ethereum and Solana
+### 🛠️ Stuff I'm Good At 🛠️
 
-- :seedling: Writing technical articles in my free time or contributing to Buildspace community 
+- Full Stack Development: From conceptualization to deployment, I handle the entire development lifecycle. My proficiency spans both front-end and back-end technologies, ensuring a cohesive and robust user experience.
+-  AWS Integration: I excel at utilizing Amazon Web Services to build cloud-native applications, optimize infrastructure, and implement reliable, cost-effective solutions. Whether it's setting up EC2 instances, managing S3 buckets, or configuring serverless architectures, I've got you covered.
+-  GPT-powered Solutions: Harnessing the capabilities of GPT ( or any other LLM model ), I can create intelligent, context-aware applications that provide personalized user interactions, automate content generation, and enhance natural language processing.
 
-- :zap: Won Gitcoin hackathons and bounties
-
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/twitter/follow/0xanish?style=social)](https://twitter.com/0xanish)
+Hire me at : https://www.upwork.com/freelancers/anishm 
 
 ---
 
